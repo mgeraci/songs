@@ -1,6 +1,5 @@
 Title           : 01
 Time Signature  : 4/4
-Description     : 1/8 notes, 2 guitars.
 
 Guitar 1
 |--------|--------|33333333|55555555|
